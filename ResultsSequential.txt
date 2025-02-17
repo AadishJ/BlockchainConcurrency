@@ -1,0 +1,1008 @@
+Starting batch transactions...
+page.tsx:93 ----------------------------------------
+page.tsx:105 Transaction 1:
+page.tsx:106 ├─ Time taken: 0.198s
+page.tsx:107 ├─ Time since last tx: 0.199s
+page.tsx:108 └─ Total time elapsed: 0.199s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 2:
+page.tsx:106 ├─ Time taken: 0.153s
+page.tsx:107 ├─ Time since last tx: 0.153s
+page.tsx:108 └─ Total time elapsed: 0.352s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 3:
+page.tsx:106 ├─ Time taken: 0.164s
+page.tsx:107 ├─ Time since last tx: 0.164s
+page.tsx:108 └─ Total time elapsed: 0.516s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 4:
+page.tsx:106 ├─ Time taken: 0.150s
+page.tsx:107 ├─ Time since last tx: 0.150s
+page.tsx:108 └─ Total time elapsed: 0.666s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 5:
+page.tsx:106 ├─ Time taken: 0.158s
+page.tsx:107 ├─ Time since last tx: 0.158s
+page.tsx:108 └─ Total time elapsed: 0.825s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 6:
+page.tsx:106 ├─ Time taken: 0.138s
+page.tsx:107 ├─ Time since last tx: 0.138s
+page.tsx:108 └─ Total time elapsed: 0.963s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 7:
+page.tsx:106 ├─ Time taken: 0.155s
+page.tsx:107 ├─ Time since last tx: 0.155s
+page.tsx:108 └─ Total time elapsed: 1.118s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 8:
+page.tsx:106 ├─ Time taken: 0.138s
+page.tsx:107 ├─ Time since last tx: 0.138s
+page.tsx:108 └─ Total time elapsed: 1.256s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 9:
+page.tsx:106 ├─ Time taken: 0.143s
+page.tsx:107 ├─ Time since last tx: 0.143s
+page.tsx:108 └─ Total time elapsed: 1.399s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 10:
+page.tsx:106 ├─ Time taken: 0.131s
+page.tsx:107 ├─ Time since last tx: 0.131s
+page.tsx:108 └─ Total time elapsed: 1.530s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 11:
+page.tsx:106 ├─ Time taken: 0.139s
+page.tsx:107 ├─ Time since last tx: 0.139s
+page.tsx:108 └─ Total time elapsed: 1.669s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 12:
+page.tsx:106 ├─ Time taken: 0.139s
+page.tsx:107 ├─ Time since last tx: 0.139s
+page.tsx:108 └─ Total time elapsed: 1.807s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 13:
+page.tsx:106 ├─ Time taken: 0.138s
+page.tsx:107 ├─ Time since last tx: 0.138s
+page.tsx:108 └─ Total time elapsed: 1.945s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 14:
+page.tsx:106 ├─ Time taken: 0.131s
+page.tsx:107 ├─ Time since last tx: 0.131s
+page.tsx:108 └─ Total time elapsed: 2.076s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 15:
+page.tsx:106 ├─ Time taken: 0.139s
+page.tsx:107 ├─ Time since last tx: 0.139s
+page.tsx:108 └─ Total time elapsed: 2.215s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 16:
+page.tsx:106 ├─ Time taken: 0.130s
+page.tsx:107 ├─ Time since last tx: 0.130s
+page.tsx:108 └─ Total time elapsed: 2.345s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 17:
+page.tsx:106 ├─ Time taken: 0.143s
+page.tsx:107 ├─ Time since last tx: 0.143s
+page.tsx:108 └─ Total time elapsed: 2.488s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 18:
+page.tsx:106 ├─ Time taken: 0.122s
+page.tsx:107 ├─ Time since last tx: 0.122s
+page.tsx:108 └─ Total time elapsed: 2.610s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 19:
+page.tsx:106 ├─ Time taken: 0.135s
+page.tsx:107 ├─ Time since last tx: 0.135s
+page.tsx:108 └─ Total time elapsed: 2.744s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 20:
+page.tsx:106 ├─ Time taken: 0.124s
+page.tsx:107 ├─ Time since last tx: 0.124s
+page.tsx:108 └─ Total time elapsed: 2.868s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 21:
+page.tsx:106 ├─ Time taken: 0.136s
+page.tsx:107 ├─ Time since last tx: 0.136s
+page.tsx:108 └─ Total time elapsed: 3.005s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 22:
+page.tsx:106 ├─ Time taken: 0.123s
+page.tsx:107 ├─ Time since last tx: 0.124s
+page.tsx:108 └─ Total time elapsed: 3.128s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 23:
+page.tsx:106 ├─ Time taken: 0.136s
+page.tsx:107 ├─ Time since last tx: 0.137s
+page.tsx:108 └─ Total time elapsed: 3.265s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 24:
+page.tsx:106 ├─ Time taken: 0.127s
+page.tsx:107 ├─ Time since last tx: 0.127s
+page.tsx:108 └─ Total time elapsed: 3.392s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 25:
+page.tsx:106 ├─ Time taken: 0.134s
+page.tsx:107 ├─ Time since last tx: 0.134s
+page.tsx:108 └─ Total time elapsed: 3.526s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 26:
+page.tsx:106 ├─ Time taken: 0.124s
+page.tsx:107 ├─ Time since last tx: 0.124s
+page.tsx:108 └─ Total time elapsed: 3.650s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 27:
+page.tsx:106 ├─ Time taken: 0.133s
+page.tsx:107 ├─ Time since last tx: 0.133s
+page.tsx:108 └─ Total time elapsed: 3.783s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 28:
+page.tsx:106 ├─ Time taken: 0.118s
+page.tsx:107 ├─ Time since last tx: 0.119s
+page.tsx:108 └─ Total time elapsed: 3.901s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 29:
+page.tsx:106 ├─ Time taken: 0.134s
+page.tsx:107 ├─ Time since last tx: 0.135s
+page.tsx:108 └─ Total time elapsed: 4.036s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 30:
+page.tsx:106 ├─ Time taken: 0.124s
+page.tsx:107 ├─ Time since last tx: 0.124s
+page.tsx:108 └─ Total time elapsed: 4.160s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 31:
+page.tsx:106 ├─ Time taken: 0.135s
+page.tsx:107 ├─ Time since last tx: 0.135s
+page.tsx:108 └─ Total time elapsed: 4.295s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 32:
+page.tsx:106 ├─ Time taken: 0.121s
+page.tsx:107 ├─ Time since last tx: 0.122s
+page.tsx:108 └─ Total time elapsed: 4.417s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 33:
+page.tsx:106 ├─ Time taken: 0.130s
+page.tsx:107 ├─ Time since last tx: 0.130s
+page.tsx:108 └─ Total time elapsed: 4.547s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 34:
+page.tsx:106 ├─ Time taken: 0.127s
+page.tsx:107 ├─ Time since last tx: 0.127s
+page.tsx:108 └─ Total time elapsed: 4.674s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 35:
+page.tsx:106 ├─ Time taken: 0.132s
+page.tsx:107 ├─ Time since last tx: 0.132s
+page.tsx:108 └─ Total time elapsed: 4.806s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 36:
+page.tsx:106 ├─ Time taken: 0.121s
+page.tsx:107 ├─ Time since last tx: 0.121s
+page.tsx:108 └─ Total time elapsed: 4.927s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 37:
+page.tsx:106 ├─ Time taken: 0.135s
+page.tsx:107 ├─ Time since last tx: 0.135s
+page.tsx:108 └─ Total time elapsed: 5.062s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 38:
+page.tsx:106 ├─ Time taken: 0.125s
+page.tsx:107 ├─ Time since last tx: 0.125s
+page.tsx:108 └─ Total time elapsed: 5.186s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 39:
+page.tsx:106 ├─ Time taken: 0.133s
+page.tsx:107 ├─ Time since last tx: 0.133s
+page.tsx:108 └─ Total time elapsed: 5.320s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 40:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 5.435s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 41:
+page.tsx:106 ├─ Time taken: 0.123s
+page.tsx:107 ├─ Time since last tx: 0.123s
+page.tsx:108 └─ Total time elapsed: 5.559s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 42:
+page.tsx:106 ├─ Time taken: 0.130s
+page.tsx:107 ├─ Time since last tx: 0.130s
+page.tsx:108 └─ Total time elapsed: 5.689s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 43:
+page.tsx:106 ├─ Time taken: 0.121s
+page.tsx:107 ├─ Time since last tx: 0.121s
+page.tsx:108 └─ Total time elapsed: 5.810s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 44:
+page.tsx:106 ├─ Time taken: 0.131s
+page.tsx:107 ├─ Time since last tx: 0.131s
+page.tsx:108 └─ Total time elapsed: 5.941s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 45:
+page.tsx:106 ├─ Time taken: 0.125s
+page.tsx:107 ├─ Time since last tx: 0.125s
+page.tsx:108 └─ Total time elapsed: 6.066s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 46:
+page.tsx:106 ├─ Time taken: 0.129s
+page.tsx:107 ├─ Time since last tx: 0.129s
+page.tsx:108 └─ Total time elapsed: 6.195s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 47:
+page.tsx:106 ├─ Time taken: 0.120s
+page.tsx:107 ├─ Time since last tx: 0.120s
+page.tsx:108 └─ Total time elapsed: 6.315s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 48:
+page.tsx:106 ├─ Time taken: 0.119s
+page.tsx:107 ├─ Time since last tx: 0.119s
+page.tsx:108 └─ Total time elapsed: 6.434s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 49:
+page.tsx:106 ├─ Time taken: 0.131s
+page.tsx:107 ├─ Time since last tx: 0.131s
+page.tsx:108 └─ Total time elapsed: 6.565s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 50:
+page.tsx:106 ├─ Time taken: 0.120s
+page.tsx:107 ├─ Time since last tx: 0.121s
+page.tsx:108 └─ Total time elapsed: 6.686s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 51:
+page.tsx:106 ├─ Time taken: 0.132s
+page.tsx:107 ├─ Time since last tx: 0.132s
+page.tsx:108 └─ Total time elapsed: 6.818s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 52:
+page.tsx:106 ├─ Time taken: 0.117s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 6.934s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 53:
+page.tsx:106 ├─ Time taken: 0.124s
+page.tsx:107 ├─ Time since last tx: 0.124s
+page.tsx:108 └─ Total time elapsed: 7.058s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 54:
+page.tsx:106 ├─ Time taken: 0.134s
+page.tsx:107 ├─ Time since last tx: 0.134s
+page.tsx:108 └─ Total time elapsed: 7.192s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 55:
+page.tsx:106 ├─ Time taken: 0.117s
+page.tsx:107 ├─ Time since last tx: 0.118s
+page.tsx:108 └─ Total time elapsed: 7.310s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 56:
+page.tsx:106 ├─ Time taken: 0.134s
+page.tsx:107 ├─ Time since last tx: 0.134s
+page.tsx:108 └─ Total time elapsed: 7.444s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 57:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 7.559s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 58:
+page.tsx:106 ├─ Time taken: 0.118s
+page.tsx:107 ├─ Time since last tx: 0.118s
+page.tsx:108 └─ Total time elapsed: 7.677s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 59:
+page.tsx:106 ├─ Time taken: 0.134s
+page.tsx:107 ├─ Time since last tx: 0.134s
+page.tsx:108 └─ Total time elapsed: 7.811s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 60:
+page.tsx:106 ├─ Time taken: 0.122s
+page.tsx:107 ├─ Time since last tx: 0.122s
+page.tsx:108 └─ Total time elapsed: 7.933s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 61:
+page.tsx:106 ├─ Time taken: 0.131s
+page.tsx:107 ├─ Time since last tx: 0.131s
+page.tsx:108 └─ Total time elapsed: 8.065s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 62:
+page.tsx:106 ├─ Time taken: 0.123s
+page.tsx:107 ├─ Time since last tx: 0.123s
+page.tsx:108 └─ Total time elapsed: 8.187s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 63:
+page.tsx:106 ├─ Time taken: 0.130s
+page.tsx:107 ├─ Time since last tx: 0.131s
+page.tsx:108 └─ Total time elapsed: 8.318s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 64:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 8.434s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 65:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 8.550s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 66:
+page.tsx:106 ├─ Time taken: 0.127s
+page.tsx:107 ├─ Time since last tx: 0.128s
+page.tsx:108 └─ Total time elapsed: 8.678s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 67:
+page.tsx:106 ├─ Time taken: 0.119s
+page.tsx:107 ├─ Time since last tx: 0.119s
+page.tsx:108 └─ Total time elapsed: 8.797s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 68:
+page.tsx:106 ├─ Time taken: 0.120s
+page.tsx:107 ├─ Time since last tx: 0.121s
+page.tsx:108 └─ Total time elapsed: 8.918s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 69:
+page.tsx:106 ├─ Time taken: 0.128s
+page.tsx:107 ├─ Time since last tx: 0.129s
+page.tsx:108 └─ Total time elapsed: 9.046s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 70:
+page.tsx:106 ├─ Time taken: 0.113s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 9.160s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 71:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 9.275s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 72:
+page.tsx:106 ├─ Time taken: 0.132s
+page.tsx:107 ├─ Time since last tx: 0.133s
+page.tsx:108 └─ Total time elapsed: 9.408s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 73:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 9.522s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 74:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 9.637s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 75:
+page.tsx:106 ├─ Time taken: 0.124s
+page.tsx:107 ├─ Time since last tx: 0.124s
+page.tsx:108 └─ Total time elapsed: 9.761s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 76:
+page.tsx:106 ├─ Time taken: 0.118s
+page.tsx:107 ├─ Time since last tx: 0.119s
+page.tsx:108 └─ Total time elapsed: 9.880s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 77:
+page.tsx:106 ├─ Time taken: 0.129s
+page.tsx:107 ├─ Time since last tx: 0.129s
+page.tsx:108 └─ Total time elapsed: 10.009s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 78:
+page.tsx:106 ├─ Time taken: 0.132s
+page.tsx:107 ├─ Time since last tx: 0.132s
+page.tsx:108 └─ Total time elapsed: 10.141s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 79:
+page.tsx:106 ├─ Time taken: 0.117s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 10.258s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 80:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 10.372s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 81:
+page.tsx:106 ├─ Time taken: 0.128s
+page.tsx:107 ├─ Time since last tx: 0.128s
+page.tsx:108 └─ Total time elapsed: 10.500s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 82:
+page.tsx:106 ├─ Time taken: 0.117s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 10.617s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 83:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 10.733s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 84:
+page.tsx:106 ├─ Time taken: 0.133s
+page.tsx:107 ├─ Time since last tx: 0.134s
+page.tsx:108 └─ Total time elapsed: 10.866s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 85:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 10.981s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 86:
+page.tsx:106 ├─ Time taken: 0.117s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 11.098s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 87:
+page.tsx:106 ├─ Time taken: 0.130s
+page.tsx:107 ├─ Time since last tx: 0.130s
+page.tsx:108 └─ Total time elapsed: 11.227s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 88:
+page.tsx:106 ├─ Time taken: 0.123s
+page.tsx:107 ├─ Time since last tx: 0.123s
+page.tsx:108 └─ Total time elapsed: 11.350s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 89:
+page.tsx:106 ├─ Time taken: 0.130s
+page.tsx:107 ├─ Time since last tx: 0.130s
+page.tsx:108 └─ Total time elapsed: 11.480s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 90:
+page.tsx:106 ├─ Time taken: 0.119s
+page.tsx:107 ├─ Time since last tx: 0.119s
+page.tsx:108 └─ Total time elapsed: 11.600s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 91:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 11.715s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 92:
+page.tsx:106 ├─ Time taken: 0.134s
+page.tsx:107 ├─ Time since last tx: 0.134s
+page.tsx:108 └─ Total time elapsed: 11.849s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 93:
+page.tsx:106 ├─ Time taken: 0.113s
+page.tsx:107 ├─ Time since last tx: 0.113s
+page.tsx:108 └─ Total time elapsed: 11.962s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 94:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 12.076s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 95:
+page.tsx:106 ├─ Time taken: 0.133s
+page.tsx:107 ├─ Time since last tx: 0.133s
+page.tsx:108 └─ Total time elapsed: 12.209s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 96:
+page.tsx:106 ├─ Time taken: 0.117s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 12.327s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 97:
+page.tsx:106 ├─ Time taken: 0.122s
+page.tsx:107 ├─ Time since last tx: 0.122s
+page.tsx:108 └─ Total time elapsed: 12.449s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 98:
+page.tsx:106 ├─ Time taken: 0.128s
+page.tsx:107 ├─ Time since last tx: 0.128s
+page.tsx:108 └─ Total time elapsed: 12.576s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 99:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 12.693s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 100:
+page.tsx:106 ├─ Time taken: 0.118s
+page.tsx:107 ├─ Time since last tx: 0.118s
+page.tsx:108 └─ Total time elapsed: 12.811s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 101:
+page.tsx:106 ├─ Time taken: 0.132s
+page.tsx:107 ├─ Time since last tx: 0.132s
+page.tsx:108 └─ Total time elapsed: 12.943s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 102:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 13.059s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 103:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 13.172s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 104:
+page.tsx:106 ├─ Time taken: 0.131s
+page.tsx:107 ├─ Time since last tx: 0.132s
+page.tsx:108 └─ Total time elapsed: 13.304s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 105:
+page.tsx:106 ├─ Time taken: 0.119s
+page.tsx:107 ├─ Time since last tx: 0.119s
+page.tsx:108 └─ Total time elapsed: 13.423s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 106:
+page.tsx:106 ├─ Time taken: 0.122s
+page.tsx:107 ├─ Time since last tx: 0.122s
+page.tsx:108 └─ Total time elapsed: 13.545s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 107:
+page.tsx:106 ├─ Time taken: 0.131s
+page.tsx:107 ├─ Time since last tx: 0.131s
+page.tsx:108 └─ Total time elapsed: 13.676s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 108:
+page.tsx:106 ├─ Time taken: 0.113s
+page.tsx:107 ├─ Time since last tx: 0.113s
+page.tsx:108 └─ Total time elapsed: 13.789s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 109:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 13.905s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 110:
+page.tsx:106 ├─ Time taken: 0.126s
+page.tsx:107 ├─ Time since last tx: 0.127s
+page.tsx:108 └─ Total time elapsed: 14.032s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 111:
+page.tsx:106 ├─ Time taken: 0.121s
+page.tsx:107 ├─ Time since last tx: 0.121s
+page.tsx:108 └─ Total time elapsed: 14.153s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 112:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 14.268s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 113:
+page.tsx:106 ├─ Time taken: 0.130s
+page.tsx:107 ├─ Time since last tx: 0.130s
+page.tsx:108 └─ Total time elapsed: 14.398s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 114:
+page.tsx:106 ├─ Time taken: 0.117s
+page.tsx:107 ├─ Time since last tx: 0.118s
+page.tsx:108 └─ Total time elapsed: 14.516s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 115:
+page.tsx:106 ├─ Time taken: 0.118s
+page.tsx:107 ├─ Time since last tx: 0.118s
+page.tsx:108 └─ Total time elapsed: 14.634s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 116:
+page.tsx:106 ├─ Time taken: 0.129s
+page.tsx:107 ├─ Time since last tx: 0.130s
+page.tsx:108 └─ Total time elapsed: 14.764s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 117:
+page.tsx:106 ├─ Time taken: 0.123s
+page.tsx:107 ├─ Time since last tx: 0.124s
+page.tsx:108 └─ Total time elapsed: 14.887s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 118:
+page.tsx:106 ├─ Time taken: 0.129s
+page.tsx:107 ├─ Time since last tx: 0.129s
+page.tsx:108 └─ Total time elapsed: 15.016s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 119:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 15.133s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 120:
+page.tsx:106 ├─ Time taken: 0.113s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 15.246s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 121:
+page.tsx:106 ├─ Time taken: 0.126s
+page.tsx:107 ├─ Time since last tx: 0.126s
+page.tsx:108 └─ Total time elapsed: 15.373s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 122:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 15.487s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 123:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 15.603s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 124:
+page.tsx:106 ├─ Time taken: 0.131s
+page.tsx:107 ├─ Time since last tx: 0.131s
+page.tsx:108 └─ Total time elapsed: 15.734s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 125:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 15.848s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 126:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 15.963s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 127:
+page.tsx:106 ├─ Time taken: 0.127s
+page.tsx:107 ├─ Time since last tx: 0.128s
+page.tsx:108 └─ Total time elapsed: 16.090s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 128:
+page.tsx:106 ├─ Time taken: 0.120s
+page.tsx:107 ├─ Time since last tx: 0.120s
+page.tsx:108 └─ Total time elapsed: 16.210s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 129:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 16.325s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 130:
+page.tsx:106 ├─ Time taken: 0.128s
+page.tsx:107 ├─ Time since last tx: 0.128s
+page.tsx:108 └─ Total time elapsed: 16.453s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 131:
+page.tsx:106 ├─ Time taken: 0.118s
+page.tsx:107 ├─ Time since last tx: 0.118s
+page.tsx:108 └─ Total time elapsed: 16.571s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 132:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 16.685s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 133:
+page.tsx:106 ├─ Time taken: 0.131s
+page.tsx:107 ├─ Time since last tx: 0.132s
+page.tsx:108 └─ Total time elapsed: 16.817s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 134:
+page.tsx:106 ├─ Time taken: 0.117s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 16.933s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 135:
+page.tsx:106 ├─ Time taken: 0.113s
+page.tsx:107 ├─ Time since last tx: 0.113s
+page.tsx:108 └─ Total time elapsed: 17.046s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 136:
+page.tsx:106 ├─ Time taken: 0.126s
+page.tsx:107 ├─ Time since last tx: 0.126s
+page.tsx:108 └─ Total time elapsed: 17.172s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 137:
+page.tsx:106 ├─ Time taken: 0.120s
+page.tsx:107 ├─ Time since last tx: 0.120s
+page.tsx:108 └─ Total time elapsed: 17.293s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 138:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 17.409s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 139:
+page.tsx:106 ├─ Time taken: 0.127s
+page.tsx:107 ├─ Time since last tx: 0.127s
+page.tsx:108 └─ Total time elapsed: 17.536s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 140:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 17.649s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 141:
+page.tsx:106 ├─ Time taken: 0.125s
+page.tsx:107 ├─ Time since last tx: 0.125s
+page.tsx:108 └─ Total time elapsed: 17.775s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 142:
+page.tsx:106 ├─ Time taken: 0.128s
+page.tsx:107 ├─ Time since last tx: 0.128s
+page.tsx:108 └─ Total time elapsed: 17.903s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 143:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 18.018s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 144:
+page.tsx:106 ├─ Time taken: 0.112s
+page.tsx:107 ├─ Time since last tx: 0.113s
+page.tsx:108 └─ Total time elapsed: 18.131s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 145:
+page.tsx:106 ├─ Time taken: 0.141s
+page.tsx:107 ├─ Time since last tx: 0.141s
+page.tsx:108 └─ Total time elapsed: 18.272s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 146:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 18.388s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 147:
+page.tsx:106 ├─ Time taken: 0.128s
+page.tsx:107 ├─ Time since last tx: 0.128s
+page.tsx:108 └─ Total time elapsed: 18.517s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 148:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 18.633s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 149:
+page.tsx:106 ├─ Time taken: 0.124s
+page.tsx:107 ├─ Time since last tx: 0.124s
+page.tsx:108 └─ Total time elapsed: 18.756s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 150:
+page.tsx:106 ├─ Time taken: 0.130s
+page.tsx:107 ├─ Time since last tx: 0.130s
+page.tsx:108 └─ Total time elapsed: 18.886s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 151:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 19.003s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 152:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 19.117s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 153:
+page.tsx:106 ├─ Time taken: 0.137s
+page.tsx:107 ├─ Time since last tx: 0.137s
+page.tsx:108 └─ Total time elapsed: 19.254s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 154:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 19.369s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 155:
+page.tsx:106 ├─ Time taken: 0.128s
+page.tsx:107 ├─ Time since last tx: 0.129s
+page.tsx:108 └─ Total time elapsed: 19.498s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 156:
+page.tsx:106 ├─ Time taken: 0.113s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 19.611s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 157:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 19.725s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 158:
+page.tsx:106 ├─ Time taken: 0.134s
+page.tsx:107 ├─ Time since last tx: 0.134s
+page.tsx:108 └─ Total time elapsed: 19.859s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 159:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 19.973s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 160:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 20.088s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 161:
+page.tsx:106 ├─ Time taken: 0.129s
+page.tsx:107 ├─ Time since last tx: 0.129s
+page.tsx:108 └─ Total time elapsed: 20.217s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 162:
+page.tsx:106 ├─ Time taken: 0.125s
+page.tsx:107 ├─ Time since last tx: 0.125s
+page.tsx:108 └─ Total time elapsed: 20.342s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 163:
+page.tsx:106 ├─ Time taken: 0.129s
+page.tsx:107 ├─ Time since last tx: 0.130s
+page.tsx:108 └─ Total time elapsed: 20.471s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 164:
+page.tsx:106 ├─ Time taken: 0.121s
+page.tsx:107 ├─ Time since last tx: 0.121s
+page.tsx:108 └─ Total time elapsed: 20.592s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 165:
+page.tsx:106 ├─ Time taken: 0.117s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 20.709s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 166:
+page.tsx:106 ├─ Time taken: 0.128s
+page.tsx:107 ├─ Time since last tx: 0.128s
+page.tsx:108 └─ Total time elapsed: 20.837s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 167:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 20.951s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 168:
+page.tsx:106 ├─ Time taken: 0.119s
+page.tsx:107 ├─ Time since last tx: 0.119s
+page.tsx:108 └─ Total time elapsed: 21.070s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 169:
+page.tsx:106 ├─ Time taken: 0.131s
+page.tsx:107 ├─ Time since last tx: 0.131s
+page.tsx:108 └─ Total time elapsed: 21.201s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 170:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 21.317s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 171:
+page.tsx:106 ├─ Time taken: 0.118s
+page.tsx:107 ├─ Time since last tx: 0.118s
+page.tsx:108 └─ Total time elapsed: 21.435s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 172:
+page.tsx:106 ├─ Time taken: 0.128s
+page.tsx:107 ├─ Time since last tx: 0.128s
+page.tsx:108 └─ Total time elapsed: 21.563s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 173:
+page.tsx:106 ├─ Time taken: 0.117s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 21.680s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 174:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 21.795s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 175:
+page.tsx:106 ├─ Time taken: 0.126s
+page.tsx:107 ├─ Time since last tx: 0.126s
+page.tsx:108 └─ Total time elapsed: 21.921s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 176:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 22.036s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 177:
+page.tsx:106 ├─ Time taken: 0.111s
+page.tsx:107 ├─ Time since last tx: 0.111s
+page.tsx:108 └─ Total time elapsed: 22.148s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 178:
+page.tsx:106 ├─ Time taken: 0.127s
+page.tsx:107 ├─ Time since last tx: 0.128s
+page.tsx:108 └─ Total time elapsed: 22.275s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 179:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.114s
+page.tsx:108 └─ Total time elapsed: 22.389s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 180:
+page.tsx:106 ├─ Time taken: 0.124s
+page.tsx:107 ├─ Time since last tx: 0.124s
+page.tsx:108 └─ Total time elapsed: 22.513s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 181:
+page.tsx:106 ├─ Time taken: 0.128s
+page.tsx:107 ├─ Time since last tx: 0.129s
+page.tsx:108 └─ Total time elapsed: 22.642s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 182:
+page.tsx:106 ├─ Time taken: 0.118s
+page.tsx:107 ├─ Time since last tx: 0.118s
+page.tsx:108 └─ Total time elapsed: 22.759s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 183:
+page.tsx:106 ├─ Time taken: 0.112s
+page.tsx:107 ├─ Time since last tx: 0.112s
+page.tsx:108 └─ Total time elapsed: 22.871s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 184:
+page.tsx:106 ├─ Time taken: 0.127s
+page.tsx:107 ├─ Time since last tx: 0.127s
+page.tsx:108 └─ Total time elapsed: 22.999s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 185:
+page.tsx:106 ├─ Time taken: 0.117s
+page.tsx:107 ├─ Time since last tx: 0.117s
+page.tsx:108 └─ Total time elapsed: 23.116s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 186:
+page.tsx:106 ├─ Time taken: 0.124s
+page.tsx:107 ├─ Time since last tx: 0.124s
+page.tsx:108 └─ Total time elapsed: 23.239s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 187:
+page.tsx:106 ├─ Time taken: 0.130s
+page.tsx:107 ├─ Time since last tx: 0.130s
+page.tsx:108 └─ Total time elapsed: 23.370s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 188:
+page.tsx:106 ├─ Time taken: 0.118s
+page.tsx:107 ├─ Time since last tx: 0.119s
+page.tsx:108 └─ Total time elapsed: 23.488s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 189:
+page.tsx:106 ├─ Time taken: 0.114s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 23.603s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 190:
+page.tsx:106 ├─ Time taken: 0.131s
+page.tsx:107 ├─ Time since last tx: 0.131s
+page.tsx:108 └─ Total time elapsed: 23.734s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 191:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 23.850s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 192:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 23.966s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 193:
+page.tsx:106 ├─ Time taken: 0.126s
+page.tsx:107 ├─ Time since last tx: 0.126s
+page.tsx:108 └─ Total time elapsed: 24.092s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 194:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 24.208s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 195:
+page.tsx:106 ├─ Time taken: 0.116s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 24.324s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 196:
+page.tsx:106 ├─ Time taken: 0.126s
+page.tsx:107 ├─ Time since last tx: 0.126s
+page.tsx:108 └─ Total time elapsed: 24.450s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 197:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.115s
+page.tsx:108 └─ Total time elapsed: 24.566s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 198:
+page.tsx:106 ├─ Time taken: 0.115s
+page.tsx:107 ├─ Time since last tx: 0.116s
+page.tsx:108 └─ Total time elapsed: 24.681s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 199:
+page.tsx:106 ├─ Time taken: 0.132s
+page.tsx:107 ├─ Time since last tx: 0.132s
+page.tsx:108 └─ Total time elapsed: 24.813s
+page.tsx:109 ----------------------------------------
+page.tsx:105 Transaction 200:
+page.tsx:106 ├─ Time taken: 0.121s
+page.tsx:107 ├─ Time since last tx: 0.122s
+page.tsx:108 └─ Total time elapsed: 24.935s
+page.tsx:109 ----------------------------------------
+page.tsx:116 
+Batch Statistics:
+page.tsx:117 Total time: 24.935 seconds
+page.tsx:118 Average time per transaction: 0.125 seconds
+page.tsx:122 Mining block...
+page.tsx:126 All transactions mined

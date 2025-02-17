@@ -1,0 +1,238 @@
+Starting Sequential Operations...
+page.tsx:89 ----------------------------------------
+page.tsx:97 Created Task 1
+page.tsx:97 Created Task 2
+page.tsx:97 Created Task 3
+page.tsx:97 Created Task 4
+page.tsx:97 Created Task 5
+page.tsx:97 Created Task 6
+page.tsx:97 Created Task 7
+page.tsx:97 Created Task 8
+page.tsx:97 Created Task 9
+page.tsx:97 Created Task 10
+page.tsx:97 Created Task 11
+page.tsx:97 Created Task 12
+page.tsx:97 Created Task 13
+page.tsx:97 Created Task 14
+page.tsx:97 Created Task 15
+page.tsx:97 Created Task 16
+page.tsx:97 Created Task 17
+page.tsx:97 Created Task 18
+page.tsx:97 Created Task 19
+page.tsx:97 Created Task 20
+page.tsx:103 All create transactions mined
+page.tsx:108 Read Task 1: Created Task 2
+page.tsx:108 Read Task 2: Created Task 3
+page.tsx:108 Read Task 3: Created Task 4
+page.tsx:108 Read Task 4: Created Task 5
+page.tsx:108 Read Task 5: Created Task 6
+page.tsx:108 Read Task 6: Created Task 7
+page.tsx:108 Read Task 7: Created Task 8
+page.tsx:108 Read Task 8: Created Task 9
+page.tsx:108 Read Task 9: Created Task 10
+page.tsx:108 Read Task 10: Created Task 11
+page.tsx:108 Read Task 11: Created Task 12
+page.tsx:108 Read Task 12: Created Task 13
+page.tsx:108 Read Task 13: Created Task 14
+page.tsx:108 Read Task 14: Created Task 15
+page.tsx:108 Read Task 15: Created Task 16
+page.tsx:108 Read Task 16: Created Task 17
+page.tsx:108 Read Task 17: Created Task 18
+page.tsx:108 Read Task 18: Created Task 19
+page.tsx:108 Read Task 19: Created Task 20
+page.tsx:108 Read Task 20: Created Task 1
+page.tsx:108 Read Task 21: Created Task 2
+page.tsx:108 Read Task 22: Created Task 3
+page.tsx:108 Read Task 23: Created Task 4
+page.tsx:108 Read Task 24: Created Task 5
+page.tsx:108 Read Task 25: Created Task 6
+page.tsx:108 Read Task 26: Created Task 7
+page.tsx:108 Read Task 27: Created Task 8
+page.tsx:108 Read Task 28: Created Task 9
+page.tsx:108 Read Task 29: Created Task 10
+page.tsx:108 Read Task 30: Created Task 11
+page.tsx:108 Read Task 31: Created Task 12
+page.tsx:108 Read Task 32: Created Task 13
+page.tsx:108 Read Task 33: Created Task 14
+page.tsx:108 Read Task 34: Created Task 15
+page.tsx:108 Read Task 35: Created Task 16
+page.tsx:108 Read Task 36: Created Task 17
+page.tsx:108 Read Task 37: Created Task 18
+page.tsx:108 Read Task 38: Created Task 19
+page.tsx:108 Read Task 39: Created Task 20
+page.tsx:108 Read Task 40: Created Task 1
+page.tsx:108 Read Task 41: Created Task 2
+page.tsx:108 Read Task 42: Created Task 3
+page.tsx:108 Read Task 43: Created Task 4
+page.tsx:108 Read Task 44: Created Task 5
+page.tsx:108 Read Task 45: Created Task 6
+page.tsx:108 Read Task 46: Created Task 7
+page.tsx:108 Read Task 47: Created Task 8
+page.tsx:108 Read Task 48: Created Task 9
+page.tsx:108 Read Task 49: Created Task 10
+page.tsx:108 Read Task 50: Created Task 11
+page.tsx:108 Read Task 51: Created Task 12
+page.tsx:108 Read Task 52: Created Task 13
+page.tsx:108 Read Task 53: Created Task 14
+page.tsx:108 Read Task 54: Created Task 15
+page.tsx:108 Read Task 55: Created Task 16
+page.tsx:108 Read Task 56: Created Task 17
+page.tsx:108 Read Task 57: Created Task 18
+page.tsx:108 Read Task 58: Created Task 19
+page.tsx:108 Read Task 59: Created Task 20
+page.tsx:108 Read Task 60: Created Task 1
+page.tsx:108 Read Task 61: Created Task 2
+page.tsx:108 Read Task 62: Created Task 3
+page.tsx:108 Read Task 63: Created Task 4
+page.tsx:108 Read Task 64: Created Task 5
+page.tsx:108 Read Task 65: Created Task 6
+page.tsx:108 Read Task 66: Created Task 7
+page.tsx:108 Read Task 67: Created Task 8
+page.tsx:108 Read Task 68: Created Task 9
+page.tsx:108 Read Task 69: Created Task 10
+page.tsx:108 Read Task 70: Created Task 11
+page.tsx:108 Read Task 71: Created Task 12
+page.tsx:108 Read Task 72: Created Task 13
+page.tsx:108 Read Task 73: Created Task 14
+page.tsx:108 Read Task 74: Created Task 15
+page.tsx:108 Read Task 75: Created Task 16
+page.tsx:108 Read Task 76: Created Task 17
+page.tsx:108 Read Task 77: Created Task 18
+page.tsx:108 Read Task 78: Created Task 19
+page.tsx:108 Read Task 79: Created Task 20
+page.tsx:108 Read Task 80: Created Task 1
+page.tsx:108 Read Task 81: Created Task 2
+page.tsx:108 Read Task 82: Created Task 3
+page.tsx:108 Read Task 83: Created Task 4
+page.tsx:108 Read Task 84: Created Task 5
+page.tsx:108 Read Task 85: Created Task 6
+page.tsx:108 Read Task 86: Created Task 7
+page.tsx:108 Read Task 87: Created Task 8
+page.tsx:108 Read Task 88: Created Task 9
+page.tsx:108 Read Task 89: Created Task 10
+page.tsx:108 Read Task 90: Created Task 11
+page.tsx:108 Read Task 91: Created Task 12
+page.tsx:108 Read Task 92: Created Task 13
+page.tsx:108 Read Task 93: Created Task 14
+page.tsx:108 Read Task 94: Created Task 15
+page.tsx:108 Read Task 95: Created Task 16
+page.tsx:108 Read Task 96: Created Task 17
+page.tsx:108 Read Task 97: Created Task 18
+page.tsx:108 Read Task 98: Created Task 19
+page.tsx:108 Read Task 99: Created Task 20
+page.tsx:108 Read Task 100: Created Task 1
+page.tsx:108 Read Task 101: Created Task 2
+page.tsx:108 Read Task 102: Created Task 3
+page.tsx:108 Read Task 103: Created Task 4
+page.tsx:108 Read Task 104: Created Task 5
+page.tsx:108 Read Task 105: Created Task 6
+page.tsx:108 Read Task 106: Created Task 7
+page.tsx:108 Read Task 107: Created Task 8
+page.tsx:108 Read Task 108: Created Task 9
+page.tsx:108 Read Task 109: Created Task 10
+page.tsx:108 Read Task 110: Created Task 11
+page.tsx:108 Read Task 111: Created Task 12
+page.tsx:108 Read Task 112: Created Task 13
+page.tsx:108 Read Task 113: Created Task 14
+page.tsx:108 Read Task 114: Created Task 15
+page.tsx:108 Read Task 115: Created Task 16
+page.tsx:108 Read Task 116: Created Task 17
+page.tsx:108 Read Task 117: Created Task 18
+page.tsx:108 Read Task 118: Created Task 19
+page.tsx:108 Read Task 119: Created Task 20
+page.tsx:108 Read Task 120: Created Task 1
+page.tsx:108 Read Task 121: Created Task 2
+page.tsx:108 Read Task 122: Created Task 3
+page.tsx:108 Read Task 123: Created Task 4
+page.tsx:108 Read Task 124: Created Task 5
+page.tsx:108 Read Task 125: Created Task 6
+page.tsx:108 Read Task 126: Created Task 7
+page.tsx:108 Read Task 127: Created Task 8
+page.tsx:108 Read Task 128: Created Task 9
+page.tsx:108 Read Task 129: Created Task 10
+page.tsx:108 Read Task 130: Created Task 11
+page.tsx:108 Read Task 131: Created Task 12
+page.tsx:108 Read Task 132: Created Task 13
+page.tsx:108 Read Task 133: Created Task 14
+page.tsx:108 Read Task 134: Created Task 15
+page.tsx:108 Read Task 135: Created Task 16
+page.tsx:108 Read Task 136: Created Task 17
+page.tsx:108 Read Task 137: Created Task 18
+page.tsx:108 Read Task 138: Created Task 19
+page.tsx:108 Read Task 139: Created Task 20
+page.tsx:108 Read Task 140: Created Task 1
+page.tsx:108 Read Task 141: Created Task 2
+page.tsx:108 Read Task 142: Created Task 3
+page.tsx:108 Read Task 143: Created Task 4
+page.tsx:108 Read Task 144: Created Task 5
+page.tsx:108 Read Task 145: Created Task 6
+page.tsx:108 Read Task 146: Created Task 7
+page.tsx:108 Read Task 147: Created Task 8
+page.tsx:108 Read Task 148: Created Task 9
+page.tsx:108 Read Task 149: Created Task 10
+page.tsx:108 Read Task 150: Created Task 11
+page.tsx:108 Read Task 151: Created Task 12
+page.tsx:108 Read Task 152: Created Task 13
+page.tsx:108 Read Task 153: Created Task 14
+page.tsx:108 Read Task 154: Created Task 15
+page.tsx:108 Read Task 155: Created Task 16
+page.tsx:108 Read Task 156: Created Task 17
+page.tsx:108 Read Task 157: Created Task 18
+page.tsx:108 Read Task 158: Created Task 19
+page.tsx:108 Read Task 159: Created Task 20
+page.tsx:108 Read Task 160: Created Task 1
+page.tsx:108 Read Task 161: Created Task 2
+page.tsx:108 Read Task 162: Created Task 3
+page.tsx:108 Read Task 163: Created Task 4
+page.tsx:108 Read Task 164: Created Task 5
+page.tsx:108 Read Task 165: Created Task 6
+page.tsx:108 Read Task 166: Created Task 7
+page.tsx:108 Read Task 167: Created Task 8
+page.tsx:108 Read Task 168: Created Task 9
+page.tsx:108 Read Task 169: Created Task 10
+page.tsx:108 Read Task 170: Created Task 11
+page.tsx:108 Read Task 171: Created Task 12
+page.tsx:108 Read Task 172: Created Task 13
+page.tsx:108 Read Task 173: Created Task 14
+page.tsx:108 Read Task 174: Created Task 15
+page.tsx:108 Read Task 175: Created Task 16
+page.tsx:108 Read Task 176: Created Task 17
+page.tsx:108 Read Task 177: Created Task 18
+page.tsx:108 Read Task 178: Created Task 19
+page.tsx:108 Read Task 179: Created Task 20
+page.tsx:108 Read Task 180: Created Task 1
+page.tsx:113 
+Sequential Statistics:
+page.tsx:114 Total time: 7.533 seconds
+page.tsx:115 Average time per operation: 0.038 seconds
+page.tsx:118 
+Starting Concurrent Operations...
+page.tsx:119 ----------------------------------------
+page.tsx:127 All create transactions submitted
+page.tsx:132 All create transactions mined
+page.tsx:139 All read operations completed
+page.tsx:144 
+Concurrent Statistics:
+page.tsx:145 Total time: 2.749 seconds
+page.tsx:146 Average time per operation: 0.014 seconds
+page.tsx:148 
+Comparison:
+page.tsx:149 Sequential vs Concurrent: 7.533s vs 2.749s
+page.tsx:150 Performance improvement: 63.51%
+
+
+Q. Why can we use Promise.all for concurrency?
+
+Ans. So the tasks we are performing are I/O bound task and do not require that much cpu so when we use Promise.all() it creates a event loop which is not really a loop but it just executes all the request without waiting for them to finish after all the request have been created then the waiting starts for all of them to finish and when all promises succeed it resolves the promise and we can move on with the code
+
+Q. Why will using multithreading not be that benificial?
+
+Ans. The I/O operation we are performing are non-blocking operations which means they do not directly require any cpu so they can be executed concurrently even with a single thread. The bottleneck is network latency (waiting for the blockchain), not CPU processing.
+
+Q. Whats an event loop?
+
+Ans. The event loop is the mechanism in JavaScript that handles asynchronous operations (like reading a file, making a network request, or waiting for user input) without blocking the execution of our program. Its single threaded. 
+
+Q. Does read request require mining?
+
+Ans. No read requests do not require any mining as it is just returning the state of blockchain so it does not create any transaction.
