@@ -18,13 +18,16 @@ const TodoList = () => {
   const [userAddress, setUserAddress] = useState<string>("");
   const [isBatchProcessing, setIsBatchProcessing] = useState<boolean>(false);
 
-  const contractAddress = "0xda4Ad5F952A0657380951F880e8C9a4CdF4AEc18";
+  const contractAddress = process.env.NEXT_PUBLIC_TODO_CONTRACT;
+  if (!contractAddress) { 
+    throw new Error("Contract address not found in environment variables");
+  }
   const contractABI = ToDoListArtifact.abi;
 
   useEffect(() => {
     const loadBlockchainData = async () => {
       try {
-        const provider = new JsonRpcProvider("http://127.0.0.1:7545");
+        const provider = new JsonRpcProvider(process.env.NEXT_PUBLIC_RPC_URL);
         const signer = await provider.getSigner(0);
         const address = await signer.getAddress();
         setUserAddress(address);
